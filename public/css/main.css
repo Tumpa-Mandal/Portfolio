@@ -1,0 +1,80 @@
+
+.menutitle{
+	display: block;
+	color: 000;
+	border: 2px solid #999;
+	background: #fff;
+	text-align: center;
+}
+.mynav{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.mynav li{
+	display: block;
+
+}
+
+.mynav li a{
+display: block;
+padding: 5px;
+margin-bottom: 5px;
+background: #999;
+color: #fff;
+}
+
+.mynav li a:hover{
+	background: #444;
+}
+
+.maindiv{
+	padding: 20px;
+}
+
+.thumbnail{
+	height:160px !important;
+}
+
+.proimage{
+	display: block;
+	width: 60%;
+	margin: auto;
+	padding: 10px;
+	background: #ddd;
+}
+
+.footnote{
+	background: #def0fc none repeat scroll 0 0;
+	border: 1px solid #cccccc;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.footnote h3{
+	font-size: 25px;
+	padding-top: 5px;
+	color: #666;
+
+}
+
+.footnote span{
+	color: #666;
+	text-decoration: underline;
+}
+
+.upnew{
+	width: 50%;
+	float: left;
+	overflow: hidden;
+}
+.previmg{
+	width: 50%;
+	float: right;
+	overflow: hidden;
+}
+.previmg img{
+	width: 180px;
+	height: 100px;
+}
